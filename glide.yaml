@@ -1,0 +1,8 @@
+package: github.com/ericchiang/gopkgapi
+import:
+- package: golang.org/x/tools
+  version: bce9606b3f617bc6280aab6abbf25962c23f398d
+  subpackages:
+  - go/loader
+
+
